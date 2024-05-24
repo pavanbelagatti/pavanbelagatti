@@ -6,6 +6,7 @@ Currently working as a developer evangelist at SingleStore.
 
 ## Connect With Me
 LinkedIn: [linkedin.com/in/pavan-belagatti](https://www.linkedin.com/in/pavan-belagatti/)\
+Twitter: [Pavan_Belagatti](https://x.com/home)\
 Email: pavbelnsb [at] gmail [dot] com
 
 ## Read my Articles
@@ -17,4 +18,4 @@ Email: pavbelnsb [at] gmail [dot] com
 [Harness](https://www.harness.io/authors/pavan-belagatti)\
 [SingleStore](https://www.singlestore.com/blog/author/pavan-belagatti/)\
 [DevOps.Com](https://devops.com/author/teamshippable/)\
-[CloudNativeNow.Com](https://cloudnativenow.com/author/pavan-belagatti/)\
+[CloudNativeNow.Com](https://cloudnativenow.com/author/pavan-belagatti/)
