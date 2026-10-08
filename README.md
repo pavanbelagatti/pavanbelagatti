@@ -2,7 +2,7 @@
 
 ## About Me
 Developer Evangelist | LinkedIn Top Voice | AI/ML| Data Science | DevOps | Tech Content Creator.\
-Currently working as a developer evangelist at SingleStore. 
+Currently working as a developer evangelist at Port. 
 
 ## Connect With Me
 LinkedIn: [linkedin.com/in/pavan-belagatti](https://www.linkedin.com/in/pavan-belagatti/)\
